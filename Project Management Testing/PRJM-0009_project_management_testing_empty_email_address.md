@@ -2,18 +2,21 @@
 
 > **Summary:** Verify that Email Address is not empty.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** Must have an account created and have created an existing project
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
-
+ |  1 | Start the Application    | Verify that the login page is shown  | 
+ |  2 | Login to your existing account    | Verify that you have an existing account created   | 
+ |  3 | Examine the Home page     | Verify that you logged in and were redirected to the home page  |  
+ |  4 | Click the Icon with the `3 dots` button beside the project you would like to edit| Verify that you see the the icon on the My Projects section |
+ |  5 | Get presented with the project modal  | Verify that the  project modal is shown  | 
+ | 6 | Edit the textfields with your own data | Verify that you can make changes to the textfields |
+ | 7 | Remove the Email Address| Verify that the textfield is editable|
+ | 9 | Click the `save` button | Verify that it gives an error when editing a project without a adding an email address|
+ 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - Error is shown when email address Field is empty
