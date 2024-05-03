@@ -2,7 +2,7 @@
 
 > **Summary:** Verify that if Password is invalid, it shows the Password is invalid.
 
-**Preconditions:** _None_
+**Preconditions:** _User has a registered account_
 
 Scenario 1
 
