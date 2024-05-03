@@ -2,7 +2,7 @@
 
 > **Summary:** Verify That a user can log into their existing account.  <br>
 
-**Preconditions:** User has a registered account 
+**Preconditions:** _User has a registered account_
 
 Scenario 1: Successful Login  
 
