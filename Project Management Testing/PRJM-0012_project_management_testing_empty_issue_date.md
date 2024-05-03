@@ -1,0 +1,19 @@
+## **PRJM-0012:** Project Management Testing - Empty Issue Date  
+
+> **Summary:** Verify that Issue Date is not empty.  <br>
+
+**Preconditions:** _None_  
+
+Scenario 1 
+
+ | \# | Step | Expected Behavior | 
+ |----|------|-------------------| 
+ |  1 |      | Verify that ...   | 
+ |  2 |      | Verify that ...   | 
+ |  3 |      | Verify that ...   |  
+
+**Post-conditions:**  
+
+ - x  
+ - y  
+ - z  
