@@ -16,8 +16,6 @@ Scenario 1: Successful Login
 
 Scenario 2: Unsuccessful Login
 
-Scenario 2: Unsuccessful Login
-
 | \# | Step | Expected Behavior |
 |----|------|-------------------|
 | 1 | Navigate to the login page | Verify that the login page is displayed and has the necessary input fields for username and password. |
