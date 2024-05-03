@@ -2,7 +2,7 @@
 
 > **Summary:** Verify that the credentials of the user is valid.
 
-**Preconditions:** User has a registered account
+**Preconditions:** _User has a registered account_
 
 Scenario 1
 
