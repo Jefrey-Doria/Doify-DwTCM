@@ -2,7 +2,7 @@
 
 > **Summary:** Verify that the system checks if the account already exists.  <br>
 
-**Preconditions:** User has a registered account
+**Preconditions:** _User has a registered account_
 
 Scenario 1 
 
