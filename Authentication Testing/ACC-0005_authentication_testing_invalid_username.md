@@ -2,7 +2,7 @@
 
 > **Summary:** Verify that if Username is invalid, it shows the username is invalid.
 
-**Preconditions:** _None_
+**Preconditions:** User has a registered account
 
 Scenario 1
 
